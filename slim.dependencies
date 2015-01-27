@@ -45,7 +45,7 @@
         "repository": "SlimRoms/hardware_qcom_media-caf",
         "target_path": "hardware/qcom/media-caf/msm8974",
         "remote": "github",
-        "branch": "lp5.0-caf-8975"
+        "branch": "lp5.0-caf-8974"
     },
     {
        "repository": "SlimRoms/kernel_sony_msm8974",
